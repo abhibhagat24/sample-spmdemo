@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "idsdkdemo",
             url: "https://github.com/abhibhagat24/sample-spmdemo/releases/download/1.0.0/idsdkdemo.xcframework.zip",
-            checksum: "f0ae0a431a05cde647dfa0e989716220ca867c8b069ae7528b5c4f50179ac6b5"
+            checksum: "3a0fb02f386b55d6a23eb2eaa833f9ea24337e086a9e4f285ee2a10fe26ccd08"
         )
     ]
 )
